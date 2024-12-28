@@ -1032,3 +1032,8 @@
 /home/acestus/git/blog/obj/Debug/net8.0/refint/blog.dll
 /home/acestus/git/blog/obj/Debug/net8.0/blog.pdb
 /home/acestus/git/blog/obj/Debug/net8.0/ref/blog.dll
+/home/acestus/git/blog/bin/Debug/net8.0/wwwroot/_framework/Markdig.wasm
+/home/acestus/git/blog/bin/Debug/net8.0/wwwroot/_framework/Markdig.wasm.gz
+/home/acestus/git/blog/bin/Debug/net8.0/Markdig.dll
+/home/acestus/git/blog/obj/Debug/net8.0/webcil/Markdig.wasm
+/home/acestus/git/blog/obj/Debug/net8.0/compressed/c85x0qmw8e.gz

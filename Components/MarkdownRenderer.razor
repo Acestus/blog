@@ -1,0 +1,9 @@
+@using Markdig
+@code {
+    [Parameter]
+    public string[] Content { get; set; } = Array.Empty<string>();
+
+    private MarkupString RenderedContent => (MarkupString)Markdown.ToHtml(string.Join("\n", Content));
+}
+
+<div>@RenderedContent</div>

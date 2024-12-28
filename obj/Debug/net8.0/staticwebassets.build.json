@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aqnKzCuFaT6dR0o/6ASYZb1dMl+/L3WRSbTKDD0sdfk=",
+  "Hash": "+X8ztxsjhjiBvwjY1kzq2Mxr1W8rLG1GwUW3E6OVhxs=",
   "Source": "blog",
   "BasePath": "/",
   "Mode": "Root",
@@ -262,6 +262,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/acestus/.dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.11/runtimes/browser-wasm/native/icudt_no_CJK.dat"
+    },
+    {
+      "Identity": "/home/acestus/git/blog/bin/Debug/net8.0/wwwroot/_framework/Markdig.wasm",
+      "SourceId": "blog",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/acestus/git/blog/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Markdig.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/acestus/git/blog/obj/Debug/net8.0/webcil/Markdig.wasm"
     },
     {
       "Identity": "/home/acestus/git/blog/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.wasm",
@@ -5128,6 +5147,25 @@
       "OriginalItemSpec": "/home/acestus/git/blog/bin/Debug/net8.0/wwwroot/_framework/System.Net.WebHeaderCollection.wasm"
     },
     {
+      "Identity": "/home/acestus/git/blog/obj/Debug/net8.0/compressed/c85x0qmw8e.gz",
+      "SourceId": "blog",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/acestus/git/blog/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Markdig.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/acestus/git/blog/bin/Debug/net8.0/wwwroot/_framework/Markdig.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/acestus/git/blog/bin/Debug/net8.0/wwwroot/_framework/Markdig.wasm"
+    },
+    {
       "Identity": "/home/acestus/git/blog/obj/Debug/net8.0/compressed/ccmkcgs986.gz",
       "SourceId": "blog",
       "SourceType": "Computed",
@@ -7805,6 +7843,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/acestus/git/blog/obj/Debug/net8.0/scopedcss/projectbundle/blog.bundle.scp.css"
+    },
+    {
+      "Identity": "/home/acestus/git/blog/wwwroot/Articles/article001.md",
+      "SourceId": "blog",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/acestus/git/blog/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "Articles/article001.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Articles/article001.md"
     },
     {
       "Identity": "/home/acestus/git/blog/wwwroot/css/app.css",

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HEE1rhIg/LegoK+OiK6F3U2t20JkHtdqNAD7I3OhCqE5i14aVb5k9i2F2IE/mUA253w4f4dhkUuHg12xFrIAfw==",
+  "dgSpecHash": "nyp4eBwSGJHdvcOkjZUCJMn+bxdHcdIeKGcHkL05gJQUh0AFVu3KH0Px7jxbygFE4eFimSEVq5T1pCFVJEHA5A==",
   "success": true,
   "projectFilePath": "/home/acestus/git/blog/blog.csproj",
   "expectedPackageFiles": [
+    "/home/acestus/.nuget/packages/markdig/0.39.1/markdig.0.39.1.nupkg.sha512",
     "/home/acestus/.nuget/packages/microsoft.aspnetcore.authorization/8.0.11/microsoft.aspnetcore.authorization.8.0.11.nupkg.sha512",
     "/home/acestus/.nuget/packages/microsoft.aspnetcore.components/8.0.11/microsoft.aspnetcore.components.8.0.11.nupkg.sha512",
     "/home/acestus/.nuget/packages/microsoft.aspnetcore.components.analyzers/8.0.11/microsoft.aspnetcore.components.analyzers.8.0.11.nupkg.sha512",
