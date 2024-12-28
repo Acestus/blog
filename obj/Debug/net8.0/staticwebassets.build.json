@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+X8ztxsjhjiBvwjY1kzq2Mxr1W8rLG1GwUW3E6OVhxs=",
+  "Hash": "jc7tonB/K0IeAsQJJg+hF7K/YggP7Lazg55IcQsBskQ=",
   "Source": "blog",
   "BasePath": "/",
   "Mode": "Root",
@@ -7843,25 +7843,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/acestus/git/blog/obj/Debug/net8.0/scopedcss/projectbundle/blog.bundle.scp.css"
-    },
-    {
-      "Identity": "/home/acestus/git/blog/wwwroot/Articles/article001.md",
-      "SourceId": "blog",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/acestus/git/blog/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "Articles/article001.md",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Articles/article001.md"
     },
     {
       "Identity": "/home/acestus/git/blog/wwwroot/css/app.css",

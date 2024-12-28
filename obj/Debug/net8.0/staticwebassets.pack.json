@@ -13,10 +13,6 @@
       "PackagePath": "staticwebassets/blog.styles.css"
     },
     {
-      "Id": "/home/acestus/git/blog/wwwroot/Articles/article001.md",
-      "PackagePath": "staticwebassets/Articles/article001.md"
-    },
-    {
       "Id": "/home/acestus/git/blog/wwwroot/css/app.css",
       "PackagePath": "staticwebassets/css/app.css"
     },

@@ -1,9 +1,16 @@
-@page "/article001"
 @using blog.Components
-@using System.IO
+@using System.Net.Http
+@inject HttpClient Http
 
 <PageTitle>Building A Blog With Blazor</PageTitle>
 
-@code {private string[] markdownContent = File.ReadAllLines("wwwroot/Articles/article001.md");}
+@code {
+    private string markdownContent;
+
+    protected override async Task OnInitializedAsync()
+    {
+        markdownContent = await Http.GetStringAsync("https://raw.githubusercontent.com/Acestus/blog/refs/heads/main/wwwroot/Articles/article001.md");
+    }
+}
 
 <MarkdownRenderer Content="@markdownContent" />
