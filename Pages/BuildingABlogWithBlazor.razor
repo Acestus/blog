@@ -1,16 +1,14 @@
-@using blog.Components
-@using System.Net.Http
-@inject HttpClient Http
+@page "/article001"
 
 <PageTitle>Building A Blog With Blazor</PageTitle>
+<h1>Building A Blog With Blazor</h1> 
 
-@code {
-    private string markdownContent;
+<p>I looked around for different ways on how to do a blog.</p>
 
-    protected override async Task OnInitializedAsync()
-    {
-        markdownContent = await Http.GetStringAsync("https://raw.githubusercontent.com/Acestus/blog/refs/heads/main/wwwroot/Articles/article001.md");
-    }
-}
+<p>One of my options was Jetbrains Writerside. I liked how it was seamless. I did not feel like I had control over how the data was processed. I was not able to tinker with it.</p>
 
-<MarkdownRenderer Content="@markdownContent" />
+<p>I considered Wordpress. But I wanted to get into the code.</p>
+
+<p>I would do a Javascript blog but I do not know Javascript well. I tried Jekyll. It took the amount of tinkering I was looking for, but the end result was an ugly page.</p>
+
+<p>I want to write about what I am interested in. I will use this as a platform to do just that.</p>

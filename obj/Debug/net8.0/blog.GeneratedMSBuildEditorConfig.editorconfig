@@ -26,10 +26,6 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/acestus/git/blog/Components/MarkdownRenderer.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9NYXJrZG93blJlbmRlcmVyLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [/home/acestus/git/blog/Pages/BuildingABlogWithBlazor.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQnVpbGRpbmdBQmxvZ1dpdGhCbGF6b3IucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

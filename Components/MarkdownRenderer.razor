@@ -1,9 +1,0 @@
-@using Markdig
-@code {
-    [Parameter]
-    public string Content { get; set; } = string.Empty;
-
-    private MarkupString RenderedContent => (MarkupString)Markdown.ToHtml(Content);
-}
-
-<div>@RenderedContent</div>
