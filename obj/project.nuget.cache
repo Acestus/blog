@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nyp4eBwSGJHdvcOkjZUCJMn+bxdHcdIeKGcHkL05gJQUh0AFVu3KH0Px7jxbygFE4eFimSEVq5T1pCFVJEHA5A==",
+  "dgSpecHash": "R4h2PmfhTIpWye6TcDFp4Z6ZqLIFkl4iYJHnjzmwNWPvFmKUTL4AgAqC7NJhuSn/0FcDFlk3Vw6D2rWp+hDTPg==",
   "success": true,
   "projectFilePath": "/home/acestus/git/blog/blog.csproj",
   "expectedPackageFiles": [
@@ -29,7 +29,7 @@
     "/home/acestus/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "/home/acestus/.nuget/packages/microsoft.jsinterop/8.0.11/microsoft.jsinterop.8.0.11.nupkg.sha512",
     "/home/acestus/.nuget/packages/microsoft.jsinterop.webassembly/8.0.11/microsoft.jsinterop.webassembly.8.0.11.nupkg.sha512",
-    "/home/acestus/.nuget/packages/microsoft.net.illink.tasks/8.0.11/microsoft.net.illink.tasks.8.0.11.nupkg.sha512",
+    "/home/acestus/.nuget/packages/microsoft.net.illink.tasks/8.0.12/microsoft.net.illink.tasks.8.0.12.nupkg.sha512",
     "/home/acestus/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.11/microsoft.net.sdk.webassembly.pack.8.0.11.nupkg.sha512",
     "/home/acestus/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512"
   ],
